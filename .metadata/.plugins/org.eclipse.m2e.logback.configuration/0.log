@@ -1,0 +1,323 @@
+2022-07-02 11:02:46,694 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-07-02 11:03:49,793 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.1/maven-surefire-plugin-2.22.1.jar
+2022-07-02 11:03:50,750 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.1/maven-surefire-plugin-2.22.1.jar
+2022-07-02 11:03:52,418 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.jar
+2022-07-02 11:03:52,875 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.jar
+2022-07-02 11:03:59,412 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Hexaware.CMS:CanteenManagementSystem:1.0-SNAPSHOT @ F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\pom.xml.
+2022-07-02 11:04:00,574 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2022-07-02 11:04:01,190 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2022-07-02 11:04:01,572 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18.pom
+2022-07-02 11:04:01,978 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18.pom
+2022-07-02 11:04:02,461 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18.jar
+2022-07-02 11:04:02,875 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2022-07-02 11:04:04,833 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2022-07-02 11:04:06,332 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18.jar
+2022-07-02 11:04:11,024 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11-sources.jar
+2022-07-02 11:04:12,161 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11-sources.jar
+2022-07-02 11:04:12,491 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.11
+2022-07-02 11:04:13,654 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18-sources.jar
+2022-07-02 11:04:16,958 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18-sources.jar
+2022-07-02 11:04:18,153 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:8.0.18
+2022-07-02 11:05:33,809 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-07-02 11:05:35,401 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.0.2/maven-resources-plugin-3.0.2.jar
+2022-07-02 11:05:36,064 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.0.2/maven-resources-plugin-3.0.2.jar
+2022-07-02 11:05:39,973 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Hexaware.CMS:CanteenManagementSystem:1.0-SNAPSHOT @ F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\pom.xml.
+2022-07-02 11:05:41,468 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.1/maven-surefire-plugin-2.22.1.pom
+2022-07-02 11:05:42,372 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.1/maven-surefire-plugin-2.22.1.pom
+2022-07-02 11:05:42,936 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.1/surefire-2.22.1.pom
+2022-07-02 11:05:43,441 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.1/surefire-2.22.1.pom
+2022-07-02 11:05:44,131 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.pom
+2022-07-02 11:05:44,710 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.pom
+2022-07-02 11:05:49,535 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CanteenManagementSystem/src/main/java
+2022-07-02 11:05:49,536 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CanteenManagementSystem/src/test/java
+2022-07-02 11:05:50,034 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 16 sec
+2022-07-02 11:05:50,903 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:05:50,903 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 11:05:50,906 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:05:50,907 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 11:20:30,983 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:20:30,983 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 11:20:30,989 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:20:31,039 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 11:20:55,335 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:20:55,335 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 11:20:55,348 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:20:55,349 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 11:55:06,771 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:55:06,772 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 11:55:06,774 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:55:06,774 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 11:55:32,501 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:55:32,502 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 11:55:32,505 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:55:32,505 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 11:55:38,198 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:55:38,198 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 11:55:38,201 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:55:38,201 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 11:55:43,526 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:55:43,526 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 11:55:43,530 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:55:43,530 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 11:55:47,521 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:55:47,522 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 11:55:47,529 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:55:47,532 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 11:56:36,926 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:56:36,927 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 11:56:36,931 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:56:36,931 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 11:57:03,810 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:57:03,810 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 11:57:03,816 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:57:03,818 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 11:57:23,930 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:57:23,930 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 11:57:23,937 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:57:23,939 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 11:57:37,921 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:57:37,921 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 11:57:37,924 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:57:37,924 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 11:58:16,751 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:58:16,751 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 11:58:16,754 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:58:16,755 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 11:58:47,912 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:58:47,913 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 11:58:47,916 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 11:58:47,916 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:00:26,255 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:00:26,255 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:00:26,258 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:00:26,258 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:00:41,701 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:00:41,701 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:00:41,733 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:00:41,734 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:02:43,439 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:02:43,439 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:02:43,442 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:02:43,442 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:04:26,447 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:04:26,448 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:04:26,450 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:04:26,450 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:06:04,720 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:06:04,721 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:06:04,724 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:06:04,724 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:07:00,251 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:07:00,252 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:07:00,254 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:07:00,254 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:08:05,974 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:08:05,975 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:08:05,989 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:08:05,990 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:08:16,955 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:08:16,955 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:08:16,957 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:08:16,957 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:10:04,284 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:10:04,284 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:10:04,287 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:10:04,287 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:12:23,740 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:12:23,741 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:12:23,749 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:12:23,752 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:14:38,922 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:14:38,922 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:14:38,924 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:14:38,925 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:15:25,825 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:15:25,825 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:15:25,827 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:15:25,827 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:15:43,434 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:15:43,434 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:15:43,436 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:15:43,436 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:17:29,271 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:17:29,271 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:17:29,273 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:17:29,274 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:17:40,814 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:17:40,839 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:17:40,846 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:17:40,846 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:19:57,684 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:19:57,685 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:19:57,691 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:19:57,691 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:20:49,656 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:20:49,658 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:20:49,687 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:20:49,687 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:21:17,499 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:21:17,499 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:21:17,525 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:21:17,525 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:22:33,950 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:22:33,950 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:22:33,952 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:22:33,952 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:25:00,683 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:25:00,683 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:25:00,702 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:25:00,703 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:28:25,389 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:28:25,390 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:28:25,393 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:28:25,393 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:29:28,808 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:29:28,810 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:29:28,812 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:29:28,813 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:29:53,769 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:29:53,770 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:29:53,775 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:29:53,775 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:31:25,464 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:31:25,464 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:31:25,466 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:31:25,467 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:31:42,731 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:31:42,731 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:31:42,733 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:31:42,733 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:35:21,579 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:35:21,580 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:35:21,582 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:35:21,582 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:35:47,903 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:35:47,904 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:35:47,906 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:35:47,906 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:41:41,885 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:41:41,885 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:41:41,888 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:41:41,888 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:42:08,396 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:42:08,397 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:42:08,398 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:42:08,399 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:42:46,007 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:42:46,008 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:42:46,011 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:42:46,011 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:42:57,532 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:42:57,533 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:42:57,535 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:42:57,535 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:44:30,622 [Worker-34: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:44:30,627 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:44:30,627 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:44:30,629 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:44:30,633 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:45:09,470 [Worker-34: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:45:09,474 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:45:09,474 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:45:09,477 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:45:09,477 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:45:28,578 [Worker-29: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:45:28,592 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:45:28,593 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:45:28,595 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:45:28,595 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:46:20,856 [Worker-32: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:46:20,860 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:46:20,861 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:46:20,862 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:46:20,863 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:46:34,907 [Worker-29: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:46:34,939 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:46:34,941 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:46:34,953 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:46:34,957 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:49:02,806 [Worker-36: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:49:02,811 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:49:02,811 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:49:02,813 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:49:02,813 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:49:51,111 [Worker-33: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:49:51,120 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:49:51,121 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:49:51,123 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:49:51,123 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:50:02,560 [Worker-36: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:50:02,565 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:50:02,565 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:50:02,566 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:50:02,567 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:51:31,360 [Worker-33: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:51:31,398 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:51:31,398 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:51:31,401 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:51:31,402 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:52:13,432 [Worker-36: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:52:13,436 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:52:13,436 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:52:13,438 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:52:13,438 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:53:03,923 [Worker-33: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:53:03,927 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:53:03,928 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:53:03,933 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:53:03,933 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:53:29,097 [Worker-30: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:53:29,124 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:53:29,124 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:53:29,127 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:53:29,128 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:53:51,285 [Worker-30: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:53:51,289 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:53:51,290 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:53:51,293 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:53:51,293 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:54:14,853 [Worker-32: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:54:14,863 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:54:14,864 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:54:14,870 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:54:14,871 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:56:20,974 [Worker-34: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:56:20,998 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:56:20,999 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:56:21,001 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:56:21,001 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:57:15,810 [Worker-33: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:57:15,815 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:57:15,815 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:57:15,817 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:57:15,817 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:58:04,427 [Worker-29: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:58:04,433 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:58:04,434 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:58:04,436 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:58:04,437 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 12:58:32,965 [Worker-32: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 12:58:32,975 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:58:32,975 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 12:58:32,977 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 12:58:32,978 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 13:00:00,887 [Worker-37: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 13:00:00,892 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 13:00:00,892 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 13:00:00,896 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 13:00:00,897 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 13:00:17,084 [Worker-36: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 13:00:17,090 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 13:00:17,091 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 13:00:17,093 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 13:00:17,093 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 13:00:56,209 [Worker-37: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 13:00:56,212 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 13:00:56,213 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 13:00:56,214 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 13:00:56,215 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources
+2022-07-02 13:01:52,425 [Worker-34: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-07-02 13:01:52,438 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 13:01:52,438 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\main\resources
+2022-07-02 13:01:52,440 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 13:01:52,441 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\TechPinnacle\Projects\CanteenManagementSystem\CanteenManagementSystem\src\test\resources

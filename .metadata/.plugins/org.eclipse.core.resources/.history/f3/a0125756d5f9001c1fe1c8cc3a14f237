@@ -1,0 +1,28 @@
+package com.Hexaware.CMS.DAO;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class ConnectionProvider {
+
+	private static ConnectionProvider _instance;
+	
+	private String url;
+	private String uid;
+	private String pwd;
+	
+	private ConnectionProvider() {
+		
+	}
+	
+	public static ConnectionProvider instance() {
+		if(_instance==null)
+			_instance=new ConnectionProvider();
+		return _instance;
+	}
+	
+	public Connection getConnection() throws SQLException {
+		return DriverManager.getConnection(url, uid, pwd);
+	}
+}

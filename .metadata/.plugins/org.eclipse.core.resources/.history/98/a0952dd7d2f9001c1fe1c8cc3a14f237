@@ -1,0 +1,5 @@
+package com.Hexaware.CMS.Model;
+
+public class OrderDetails {
+
+}

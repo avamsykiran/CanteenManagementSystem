@@ -1,0 +1,5 @@
+package com.Hexaware.CMS.Exception;
+
+public class CanteenException {
+
+}

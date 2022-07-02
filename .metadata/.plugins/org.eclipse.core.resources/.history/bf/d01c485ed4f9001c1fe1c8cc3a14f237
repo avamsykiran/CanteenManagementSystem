@@ -1,0 +1,5 @@
+package com.Hexaware.CMS.DAO;
+
+public class ConnectionProvider {
+
+}

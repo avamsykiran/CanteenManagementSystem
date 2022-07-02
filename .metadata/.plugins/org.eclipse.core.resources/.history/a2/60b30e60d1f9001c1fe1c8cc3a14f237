@@ -1,0 +1,33 @@
+package com.Hexaware.CMS.Model;
+
+public class User {
+
+	private long userId;
+	private String fullName;
+	private String mobile;
+	private String emailId;
+	private String password;
+	private Role role;
+	
+	public User() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public User(long userId, String fullName, String mobile, String emailId, String password, Role role) {
+		super();
+		this.userId = userId;
+		this.fullName = fullName;
+		this.mobile = mobile;
+		this.emailId = emailId;
+		this.password = password;
+		this.role = role;
+	}
+
+	@Override
+	public String toString() {
+		return "userId=" + userId + ", fullName=" + fullName + ", mobile=" + mobile + ", emailId=" + emailId
+				+ ", role=" + role;
+	}
+
+	
+}

@@ -1,0 +1,5 @@
+package com.Hexaware.CMS.Service;
+
+public interface VendorService {
+
+}

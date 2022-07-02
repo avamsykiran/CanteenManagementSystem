@@ -1,0 +1,12 @@
+package com.Hexaware.CMS.Model;
+
+public class Item {
+
+	private long itemId;
+	private String name;
+	private double rate;
+	
+	public Item(){
+		
+	}
+}

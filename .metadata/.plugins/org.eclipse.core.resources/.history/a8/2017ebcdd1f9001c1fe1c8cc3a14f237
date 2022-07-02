@@ -1,0 +1,20 @@
+package com.Hexaware.CMS.Model;
+
+public class Custoemr extends User{
+
+	public Custoemr() {
+		this.setRole(Role.VENDOR);
+	}
+
+	public Custoemr(long userId, String fullName, String mobile, String emailId, String password) {
+		super(userId, fullName, mobile, emailId, password, Role.VENDOR);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public String toString() {
+		return super.toString();
+	}
+	
+	
+}

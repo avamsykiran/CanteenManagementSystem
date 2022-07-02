@@ -1,0 +1,11 @@
+package com.Hexaware.CMS.DAO;
+
+import com.Hexaware.CMS.Model.Customer;
+
+public interface CustoemrDAO {
+
+	Customer getById(long cid);
+	Customer add(Customer cutomer);
+	void updateBalance(double balance);
+	
+}

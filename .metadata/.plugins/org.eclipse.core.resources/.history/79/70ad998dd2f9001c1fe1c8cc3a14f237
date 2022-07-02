@@ -1,0 +1,12 @@
+package com.Hexaware.CMS.Model;
+
+public class FoodItem {
+
+	private long itemId;
+	private String name;
+	private double rate;
+	
+	public FoodItem(){
+		
+	}
+}

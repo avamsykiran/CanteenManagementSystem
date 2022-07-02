@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=CanteenManagementSystem/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.Hexaware.CMS.DAO{UserDAO.java[UserDAO" modifiers="513" timestamp="1656745965728"/>
+<typeInfo handle="=CanteenManagementSystem/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.Hexaware.CMS.DAO{CustomerDAO.java[CustomerDAO" modifiers="513" timestamp="1656746532909"/>
+<typeInfo handle="=CanteenManagementSystem/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.Hexaware.CMS.DAO{FoodItemDAO.java[FoodItemDAO" modifiers="513" timestamp="1656746390493"/>
+<typeInfo handle="=CanteenManagementSystem/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.Hexaware.CMS.DAO{OrderDAO.java[OrderDAO" modifiers="513" timestamp="1656746402043"/>
+<typeInfo handle="=CanteenManagementSystem/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.Hexaware.CMS.DAO{VendorDAO.java[VendorDAO" modifiers="513" timestamp="1656745901435"/>
+</typeInfoHistroy>

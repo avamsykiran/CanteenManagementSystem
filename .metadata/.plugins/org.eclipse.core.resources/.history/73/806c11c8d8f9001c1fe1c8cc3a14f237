@@ -1,0 +1,12 @@
+package com.Hexaware.CMS.Service;
+
+import java.util.List;
+
+import com.Hexaware.CMS.Model.Vendor;
+
+public interface VendorService {
+
+	List<Vendor> getAll();
+	Vendor getById();
+	
+}

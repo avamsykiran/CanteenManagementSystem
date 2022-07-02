@@ -1,0 +1,17 @@
+package com.Hexaware.CMS.Model;
+
+public class Vendor extends User{
+
+
+
+	public Vendor() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public Vendor(long userId, String fullName, String mobile, String emailId, String password, Role role) {
+		super(userId, fullName, mobile, emailId, password, role);
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+}
